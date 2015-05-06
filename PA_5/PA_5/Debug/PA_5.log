@@ -1,0 +1,17 @@
+﻿Build started 3/14/2015 9:25:03 PM.
+     1>Project "C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\PA_5\PA_5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\garrett\onedrive\cpt_s 122 programs\pa_5\pa_5\main.cpp(70): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\garrett\onedrive\cpt_s 122 programs\pa_5\pa_5\main.cpp(88): warning C4018: '>=' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\Debug\PA_5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\Debug\PA_5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\Debug\PA_5.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Source.obj
+         LINK : C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\Debug\PA_5.exe not found or not built by the last incremental link; performing full link
+         PA_5.vcxproj -> C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\Debug\PA_5.exe
+     1>Done Building Project "C:\Users\Garrett\OneDrive\CPT_S 122 programs\PA_5\PA_5\PA_5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.71
